@@ -1,3 +1,10 @@
+/*
+ * Created by Muhamad Syafii
+ * Wednesday, 05/5/2021
+ * Copyright (c) 2021.
+ * All Rights Reserved
+ */
+
 package com.syafii.shoppinglist.data.db
 
 import androidx.lifecycle.LiveData

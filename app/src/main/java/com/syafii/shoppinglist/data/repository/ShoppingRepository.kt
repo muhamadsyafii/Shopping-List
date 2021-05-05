@@ -1,3 +1,10 @@
+/*
+ * Created by Muhamad Syafii
+ * Wednesday, 05/5/2021
+ * Copyright (c) 2021.
+ * All Rights Reserved
+ */
+
 package com.syafii.shoppinglist.data.repository
 
 import com.syafii.shoppinglist.data.db.ShoppingDatabase
